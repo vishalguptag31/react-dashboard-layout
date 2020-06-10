@@ -1,5 +1,5 @@
 
 
-## Available Scripts
+## Examples
 React Dashboard Layout Examples
 
